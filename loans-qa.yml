@@ -1,0 +1,11 @@
+build:
+  version: "177.0"
+
+accounts:
+  message: "Welcome to ZettaBank accounts related Qa APIs "
+  contactDetails:
+    name: "yeduguri - QA Lead"
+    email: "yeduguri@zettabank.com"
+  onCallSupport:
+    - (040) 265-3765
+    - (040) 734-8371
