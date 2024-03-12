@@ -1,5 +1,5 @@
 build:
-  version: "2.3"
+  version: "2.4"
 
 accounts:
   message: "Welcome to ZettaBank accounts related prod APIs "
